@@ -1,1 +1,51 @@
-
+2021-07-25 14:00:01,673 --------------------Initiate testing---------------------
+2021-07-25 14:00:28,739 --------------------Initiate testing---------------------
+2021-07-25 14:01:07,598 --------------------Initiate testing---------------------
+2021-07-25 14:01:07,598 Loaded url and ip address file
+2021-07-25 14:01:07,598 Sending Get Request for URL= hofxuo04.top
+2021-07-25 14:01:07,608 Get request timed out for URL= hofxuo04.top
+2021-07-25 14:01:07,608 -----------------------------------------
+2021-07-25 14:01:07,608 Sending Get Request for URL= www.basticityguide.com
+2021-07-25 14:01:07,608 Get request timed out for URL= www.basticityguide.com
+2021-07-25 14:01:07,608 -----------------------------------------
+2021-07-25 14:01:07,608 Sending Get Request for URL= solutech-group.com
+2021-07-25 14:01:07,608 Get request timed out for URL= solutech-group.com
+2021-07-25 14:01:07,608 -----------------------------------------
+2021-07-25 14:01:07,608 Sending Get Request for URL= 4a5ikol.ru
+2021-07-25 14:01:07,608 Get request timed out for URL= 4a5ikol.ru
+2021-07-25 14:01:07,608 -----------------------------------------
+2021-07-25 14:01:07,608 Sending Get Request for URL= www.medicaresupportusa.com
+2021-07-25 14:01:07,614 Get request timed out for URL= www.medicaresupportusa.com
+2021-07-25 14:01:07,614 -----------------------------------------
+2021-07-25 14:01:07,614 Sending icmp request for ip= 191.101.167.77
+2021-07-25 14:01:07,898 response time of icmp access for ip= 0.2844548225402832
+2021-07-25 14:01:07,898 Sending icmp request for ip= 91.220.101.117
+2021-07-25 14:01:08,140 response time of icmp access for ip= 0.24165582656860352
+2021-07-25 14:01:08,140 Sending icmp request for ip= 188.225.86.154
+2021-07-25 14:01:12,158 response time of icmp access for ip= None
+2021-07-25 14:01:12,158 Sending icmp request for ip= 185.16.41.95
+2021-07-25 14:01:16,164 response time of icmp access for ip= None
+2021-07-25 14:01:16,164 Sending icmp request for ip= 163.172.153.226
+2021-07-25 14:01:16,358 response time of icmp access for ip= 0.19400572776794434
+2021-07-25 14:01:16,364 --------------------End of testing---------------------
+2021-07-25 14:01:44,306 --------------------Initiate testing---------------------
+2021-07-25 14:01:44,307 Loaded url and ip address file
+2021-07-25 14:01:44,307 Sending Get Request for URL= xixaoclothing.com
+2021-07-25 14:01:44,310 Get request timed out for URL= xixaoclothing.com
+2021-07-25 14:01:44,311 -----------------------------------------
+2021-07-25 14:01:44,311 Sending Get Request for URL= abcd.bg
+2021-07-25 14:01:44,312 Get request timed out for URL= abcd.bg
+2021-07-25 14:01:44,313 -----------------------------------------
+2021-07-25 14:01:44,313 Sending Get Request for URL= myaccount.pageinformation.newsonk.org
+2021-07-25 14:01:44,314 Get request timed out for URL= myaccount.pageinformation.newsonk.org
+2021-07-25 14:01:44,315 -----------------------------------------
+2021-07-25 14:01:44,315 Sending Get Request for URL= anozon.co.ip.kzxvnds.asia
+2021-07-25 14:01:44,316 Get request timed out for URL= anozon.co.ip.kzxvnds.asia
+2021-07-25 14:01:44,317 -----------------------------------------
+2021-07-25 14:01:44,317 Sending Get Request for URL= omaprilcode.duckdns.org
+2021-07-25 14:01:44,318 Get request timed out for URL= omaprilcode.duckdns.org
+2021-07-25 14:01:44,318 -----------------------------------------
+2021-07-25 14:01:44,319 Sending icmp request for ip= 77.76.228.4
+2021-07-25 14:01:48,328 response time of icmp access for ip= None
+2021-07-25 14:01:48,331 Sending icmp request for ip= 103.53.197.172
+2021-07-25 14:01:52,339 --------------------End of testing---------------------

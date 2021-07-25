@@ -7,11 +7,11 @@
 
 pip install ping3
 
-This code will utilize the files urls.txt and ipAddress.txt to to ping 5 random ip address and send GET request to 5 randowm URLs.
+This code will utilize the files urls.txt and ipAddress.txt to to ping 5 random ip address and send GET request to 5 random URLs.
 The objective is to generate events when trying to test Firepower's SI.
 
-Run using: python SI-diagnostic-1.py
-The logs will be saved in SI-diagnostic-1.log
+  Run using: python SI-diagnostic-1.py
+  The logs will be saved in SI-diagnostic-1.log
 
 # Using the Windows executible file
 

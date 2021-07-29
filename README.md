@@ -11,6 +11,7 @@ This code will utilize the files urls.txt and ipAddress.txt to to ping 5 random 
 The objective is to generate events when trying to test Firepower's SI.
 
   Run using: python SI-diagnostic-1.py
+  (since this code uses socket, an elevated priv on linux machines might be needed in which case run using sudo python SI-diagnostic-1.py or sudo python3 SI-diagnostic-1.py)
   The logs will be saved in SI-diagnostic-1.log
 
 # Using the Windows executible file

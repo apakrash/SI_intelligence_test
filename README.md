@@ -1,5 +1,5 @@
 # SI_intelligence_test
-#### Pre-alpha build
+#### beta-alpha build
 
 # Using the Python Script
 
@@ -16,7 +16,7 @@ The objective is to generate events when trying to test Firepower's SI.
 
 # Using the Windows executible file
 
-1. Open cmd.exe on the machine 
-2. navigate to the SI-diagnostic-1 folder inside this repository, i.e. cd SI-diagnostic-1
-3. run the file: SI-diagnostic-1.exe
+1. Open cmd.exe on the machine, with ADMIN privilege (else the script will throw errors)
+2. navigate to the SI-diagnostic-1 folder inside this repository
+3. run the file from the admin cmd prmompt: SI-diagnostic-1.exe
 4. The logs will be saved in SI-diagnostic-1.log
